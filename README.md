@@ -1,5 +1,5 @@
 
-### Hi
+### Hi and welcome to my github
 [<img src="https://img.shields.io/badge/DEV-DEV-lightgrey" />](https://dev.to/markoshiva/)
 
 <!--
@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on few side projects some public some not yet.
+
+- 😄 Pronouns: He/Him
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoShiva&theme=vue-dark&langs_count=6" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkoShiva&show_icons=true&count_private=true&count_org=true&theme=vue-dark" />
@@ -45,10 +47,10 @@ Here are some ideas to get you started:
 
 
 
+<hr>
 
 
-
-<h1 align="left">Technologies</h1>
+<h3 align="left">Technologies I use</h3>
 <p align="left">
 <code>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
