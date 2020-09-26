@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=MarkoShiva&color=green&label=Profile+Views+since+09.2020&style=flat)
 
+---
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkoShiva&show_icons=true&count_private=true&count_org=true&theme=vue-dark" />
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoShiva&theme=vue-dark&langs_count=6&layout=compact" />
+<img valign="top" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoShiva&theme=vue-dark&langs_count=6&layout=compact" />
 
 
 
