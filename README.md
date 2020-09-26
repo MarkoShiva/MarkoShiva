@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkoShiva&show_icons=true&count_private=true&count_org=true&theme=vue-dark" />
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoShiva&theme=vue-dark&langs_count=6" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoShiva&theme=vue-dark&langs_count=6&layout=compact" />
 
 
 
