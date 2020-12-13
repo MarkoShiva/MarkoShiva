@@ -2,6 +2,10 @@
 ### Hi and welcome to my github
 [<img src="https://img.shields.io/badge/DEV-DEV-lightgrey" />](https://dev.to/markoshiva/)
 
+[<img src="https://img.shields.io/badge/hackerrank.com-profile-brightgreen" />](https://www.hackerrank.com/in1t3r)
+[<img src="https://img.shields.io/badge/codingame.com-profile-green" />](https://www.codingame.com/profile/62fcb34cd0172c7f844a390d1841f5581500133)
+
+
 <!--
 **MarkoShiva/MarkoShiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
