@@ -1,9 +1,6 @@
 
 ### Hi and welcome to my github
-[<img src="https://img.shields.io/badge/DEV-DEV-lightgrey" />](https://dev.to/markoshiva/)
-
-[<img src="https://img.shields.io/badge/hackerrank.com-profile-brightgreen" />](https://www.hackerrank.com/in1t3r)
-[<img src="https://img.shields.io/badge/codingame.com-profile-green" />](https://www.codingame.com/profile/62fcb34cd0172c7f844a390d1841f5581500133)
+[<img src="https://img.shields.io/badge/DEV-DEV-lightgrey" />](https://dev.to/markoshiva/) [<img src="https://img.shields.io/badge/hackerrank.com-profile-brightgreen" />](https://www.hackerrank.com/in1t3r) [<img src="https://img.shields.io/badge/codingame.com-profile-green" />](https://www.codingame.com/profile/62fcb34cd0172c7f844a390d1841f5581500133)
 
 
 [<img src="https://img.shields.io/badge/linkedin-profile-lightgrey" />](https://www.linkedin.com/in/markoshivapavlovic/)
@@ -21,7 +18,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 I’m currently working on few side projects some public some not yet.
+- 🔭 I’m currently working on side projects and expert level jobs you cant do. :D
+- 🌱 I’m currently learning many things. To note few:
+  - various ML areas like improved NLU and conversational API, and additional Cog imporovements.
+  - Game Development some engine in part time.
+- 👯 I’m looking to collaborate on any kind of interesting DataScience or ML related project working on solving a problem in ad area that I want or need.
+  - requirments team must not consist or allow jerks in it.
+- 💬 Ask me about Linux C++ development. Kernel Networking Stack. Python and API development or something ML related and we might have a nice conversation. :)
+- 📫 How to reach me: there are enough links here. :)
+
 
 - 😄 Pronouns: He/Him
 
