@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 I’m currently working on side projects and expert level jobs you cant do. :D
+- 🔭 I’m currently working on side projects and expert level jobs you can't do. :D
+- 🔭 I am available for Web Development jobs related to implementation of API's and or frameworks as well as 
+  optimisation of existing applications and infrastructure.
 - 🌱 I’m currently learning many things. To note few:
-  - various ML areas like improved NLU and conversational API, and additional Cog imporovements.
-  - Game Development some engine in part time.
-- 👯 I’m looking to collaborate on any kind of interesting DataScience or ML related project that is aimed to solve a type of a problem that I want to solve or contribute in solving in area that I care to help or in an area where I need a bit of clustering and other ML uses. 
-  - note: If I need a specific usecase for ML I probably develop it myself if it is not too much of a financial stretch.
-  - requirments team must not consist or allow jerks in it.
-- 💬 Ask me about Linux C++ development. Kernel Networking Stack. Python and API development or something ML related and we might have a nice conversation. :)
+  - various ML areas like improved NLU and conversational API.
+  - Game Development and some engines in part-time.
+- 👯 I’m looking to collaborate on any kind of interesting DataScience or ML related project that is aimed to solve a 
+  type of problem that I want to solve or contribute in solving.
+  - requirements team must not consist or allow jerks in it.
+- 💬 Ask me about Linux C++ development. Kernel Networking Stack. Python and API development or something ML related, and we might have a nice conversation. :)
 - 📫 How to reach me: there are enough links here. :)
 
 
