@@ -24,9 +24,10 @@ Here are some ideas to get you started:
   - optimisation of existing applications and infrastructure.
   - Machine Learning postions and startup companies that are trying to solve interesting tasks via Machine Learning. 
  
-- 🌱 I’m currently learning many things. To note few:
-  - various ML areas like improved NLU and conversational API.
-  - Game Development and some engines in part-time.
+- 🌱 I’m currently learning:
+  - Machine Learning areas like the implementation of TensorFlow. 
+  - implementing new algorithms.
+  - anyhthing web development related that is needed for sucess of my projects/
 - 👯 I’m looking to collaborate on any kind of interesting DataScience or ML related project that is aimed to solve a 
   type of problem that I want to solve or contribute in solving.
   - requirements team must not consist or allow jerks in it.
