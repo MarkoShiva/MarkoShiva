@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning:
   - Machine Learning areas like the implementation of TensorFlow. 
   - implementing new algorithms.
-  - anyhthing web development related that is needed for sucess of my projects/
-- 👯 I’m looking to collaborate on any kind of interesting DataScience or ML related project that is aimed to solve a 
+  - anyhthing web development related that is needed for success of my projects.
+  - 
+- 👯 I’m looking for colaboration on projects that I like Machine LEarning or C++ library implementation  related project that is aimed to solve a 
   type of problem that I want to solve or contribute in solving.
   - requirements team must not consist or allow jerks in it.
 - 💬 Ask me about Linux C++ development. Kernel Networking Stack. Python and API development or something ML related, and we might have a nice conversation. :)
