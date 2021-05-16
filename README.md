@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 I’m currently working on side projects and expert level jobs you can't do. :D
-- 🔭 I am available for Web Development jobs related to implementation of API's and or frameworks as well as 
-  optimisation of existing applications and infrastructure.
+- 🔭 I’m currently working on few great sideprojects. :D
+- 🔭 I am available for:
+  - Web Development jobs related to implementation of API's FullStack as well
+  - optimisation of existing applications and infrastructure.
+  - Machine Learning postions and startup companies that are trying to solve interesting tasks via Machine Learning. 
+ 
 - 🌱 I’m currently learning many things. To note few:
   - various ML areas like improved NLU and conversational API.
   - Game Development and some engines in part-time.
