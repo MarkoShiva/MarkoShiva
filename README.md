@@ -28,11 +28,11 @@ Here are some ideas to get you started:
   - Machine Learning areas like the implementation of TensorFlow. 
   - implementing new algorithms.
   - anyhthing web development related that is needed for success of my projects.
-  - 
-- 👯 I’m looking for colaboration on projects that I like Machine LEarning or C++ library implementation  related project that is aimed to solve a 
-  type of problem that I want to solve or contribute in solving.
-  - requirements team must not consist or allow jerks in it.
-- 💬 Ask me about Linux C++ development. Kernel Networking Stack. Python and API development or something ML related, and we might have a nice conversation. :)
+ 
+- 👯 I’m looking for colaboration on projects that I like mainly Machine Learning or C++ library implementation.
+
+- 💬 Ask me about Linux C++ development. Kernel Networking Stack. Python and API development or something Machine Learning related, and we might have a nice conversation. :)
+
 - 📫 How to reach me: there are enough links here. :)
 
 
