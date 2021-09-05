@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/topics/lua"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" /></a>
 <a href="https://github.com/topics/scikit-learn"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" /></a>
 <a href="https://github.com/pytorch/pytorch"><img height="39" width="39" src="https://github.com/pytorch/pytorch/raw/master/docs/source/_static/img/pytorch-logo-flame.png" /></a>
-<a href"https://github.com/topics/html"> <img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
+<a href"https://github.com/topics/html"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>  
 <a href="https://github.com/topics/terraform"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 <a href="https://github.com/topics/github-api"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" />
 <img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
