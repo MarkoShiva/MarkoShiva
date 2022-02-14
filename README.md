@@ -37,7 +37,6 @@ Here are some ideas to get you started:
   - anyhthing web development related that is needed for success of my projects.
  
 - 👯 I'm trying to find more time for working oncolaboration projects in FLOSS mainly google backed projects like TensorFlow, Dart Flutter. 
-- 
 - 💬 Ask me about Linux C++ development. Kernel Networking Stack. Python and API development or Mathematical Theories of Computational Universe or SuperString theory explanations something Machine Learning related, and we might have a nice conversation. Its tensors all the way down baby (Spinors). :)
 
 - 📫 How to reach me: there are enough links here. :)
