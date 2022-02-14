@@ -80,11 +80,12 @@ Here are some ideas to get you started:
 <p align="left">
 <code>
 <a href="https://github.com/topics/python"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-<a href="https://github.com/topics/c"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /></a>
 <a href="https://github.com/topics/cpp"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
+ <a href="https://github.com/topics/typescript"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/typescript.png" /></a>
 <a href="https://github.com/topics/rust"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /></a>
 <a href="https://github.com/topics/flask"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /></a>
 <a href="https://github.com/topics/google"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" /></a>
+  <a href="https://github.com/topics/c"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /></a>
 <a href="https://github.com/topics/edgejs"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /></a>
 <a href="https://github.com/topics/java"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></a>
 <a href="https://github.com/topics/django"> <img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></a>
@@ -99,8 +100,27 @@ Here are some ideas to get you started:
 <a href="https://github.com/topics/github-api"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" />
   
  <a href="https://github.com/topics/bootstrap"><img height="39" width="39"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
-<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rest-api/rest-api.png" />
+ 
+  
+  <a href="https://github.com/topics/javascript"><img height="39" width="39"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+  
+  <a href="https://github.com/topics/rest-api"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rest-api/rest-api.png" /></a>
+  
+  <a href="https://github.com/topics/cpp"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
+  
+  <a href="https://github.com/topics/cpp"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
+  
+  <a href="https://github.com/topics/cpp"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
+  
+  <a href="https://github.com/topics/cpp"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
+  
+  <a href="https://github.com/topics/cpp"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
+  
+  <a href="https://github.com/topics/cpp"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
+  
+  <a href="https://github.com/topics/cpp"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
+  
+  
 <img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/neovim/neovim.png" />
