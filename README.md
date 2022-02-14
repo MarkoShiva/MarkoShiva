@@ -17,23 +17,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 I’m currently working on few great sideprojects. :D
+- 🔭 I’m currently working on consulting roles and backend web development roles. :D
+- 🔭 I sometime spend time implementing or reimplementing things in golang and rust. Like WebRTC suite.
 - 🔭 I am available for:
-  - Web Development jobs related to implementation of API's FullStack as well
-  - optimisation of existing applications and infrastructure.
+  - Web Development jobs, mainly API implementations as well FullStack roles. However my prefered backend is Python.
+  - optimisation of existing applications and infrastructure development with python, C++ golang rust. 
   - Machine Learning postions and startup companies that are trying to solve interesting tasks via Machine Learning. 
  
+- Favorite languages:
+  - Python
+  - C++ 
+  - Dart/Flutter
+  - Typescript
+  - golang
+  - rust 
 - 🌱 I’m currently learning:
   - Machine Learning areas like the implementation of TensorFlow. 
-  - implementing new algorithms.
+  - Dart - Flutter - Typescript. 
   - anyhthing web development related that is needed for success of my projects.
  
-- 👯 I’m looking for colaboration on projects that I like mainly Machine Learning or C++ library implementation.
-
-- 💬 Ask me about Linux C++ development. Kernel Networking Stack. Python and API development or something Machine Learning related, and we might have a nice conversation. :)
+- 👯 I'm trying to find more time for working oncolaboration projects in FLOSS mainly google backed projects like TensorFlow, Dart Flutter. 
+- 
+- 💬 Ask me about Linux C++ development. Kernel Networking Stack. Python and API development or Mathematical Theories of Computational Universe or SuperString theory explanations something Machine Learning related, and we might have a nice conversation. Its tensors all the way down baby (Spinors). :)
 
 - 📫 How to reach me: there are enough links here. :)
-
 
 - 😄 Pronouns: He/Him
 
