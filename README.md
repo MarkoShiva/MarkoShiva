@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 ---
 <p>
 <img valign="top-left" src="https://github-readme-stats.vercel.app/api?username=MarkoShiva&show_icons=true&count_private=true&count_org=true&theme=vue-dark" />
-
-
 <img valign="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoShiva&theme=vue-dark&langs_count=6&layout=compact" />
 </p>
 
@@ -83,7 +81,6 @@ Here are some ideas to get you started:
 <code>
 <a href="https://github.com/topics/python"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
 <a href="https://github.com/topics/c"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /></a>
-
 <a href="https://github.com/topics/cpp"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
 <a href="https://github.com/topics/rust"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /></a>
 <a href="https://github.com/topics/flask"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /></a>
@@ -100,7 +97,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/topics/html"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
 <a href="https://github.com/topics/terraform"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 <a href="https://github.com/topics/github-api"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" />
-<img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+  
+ <a href="https://github.com/topics/bootstrap"><img height="39" width="39"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
 <img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rest-api/rest-api.png" />
 <img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
