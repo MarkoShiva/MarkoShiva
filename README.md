@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   - C++ 
   - Dart/Flutter
   - Typescript
-  - golang
   - rust 
+  - Java
 - 🌱 I’m currently learning:
   - Machine Learning areas like the implementation of TensorFlow. 
   - Dart - Flutter - Typescript. 
