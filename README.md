@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/topics/scikit-learn"><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" /></a>
 <a href="https://github.com/pytorch/pytorch"><img height="64" width="64" src="https://github.com/pytorch/pytorch/raw/master/docs/source/_static/img/pytorch-logo-flame.png" /></a>
 <a href="https://github.com/topics/html"><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
-<a href="https://github.com/topics/terraform"><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
+<a href="https://github.com/topics/terraform"><img height="64" width="64" src="https://www.scalefactory.com/blog/2020/06/25/what-we-are-looking-forward-to-in-terraform-0.13/Terraform.png" />
 <a href="https://github.com/topics/github-api"><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" />
 <a href="https://github.com/topics/bootstrap"><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
 <a href="https://github.com/topics/javascript"><img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
