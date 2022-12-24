@@ -74,7 +74,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/topics/lua"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" /></a>
 <a href="https://github.com/topics/scikit-learn"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" /></a>
 <a href="https://github.com/pytorch/pytorch"><img height="39" width="39" src="https://github.com/pytorch/pytorch/raw/master/docs/source/_static/img/pytorch-logo-flame.png" /></a>
-  
 <a href="https://github.com/topics/html"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
 <a href="https://github.com/topics/terraform"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 <a href="https://github.com/topics/github-api"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" />
@@ -89,8 +88,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/topics/heroku"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png" /></a>
 <a href="https://github.com/topics//visual-studio-code"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code//visual-studio-code.png" /></a>
 <a href="https://github.com/topics/kotlin"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
-  
-  
 <a href="https://github.com/topics/vue"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /></a> 
 <a href="https://github.com/topics/mysql"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
 <a href="https://github.com/topics/postgresql"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>
