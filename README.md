@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 ---
 <h3 align="left">Technologies I use</h3>
 <p align="left">
-<code>
 <a href="https://github.com/topics/python"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
  <a href="https://github.com/topics/flutter"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /></a>
 <a href="https://github.com/topics/cpp"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
@@ -97,5 +96,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/topics/postgresql"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>
 <a href="https://github.com/topics/spring-boot"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" /></a>
 <a href="https://github.com/topics/aws"><img height="39" width="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /></a>
-</code>
 </p>
